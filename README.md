@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF8FE&width=435&lines=%F0%9F%98%BC+Hey+there!+I'm+Kayky" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <img src="gifDs.gif" alt="Gif Elden Ring" />
+</p>
+## <img src="https://framerusercontent.com/images/aj0AMGoRdoo8Q6PJOjQAfz6w.gif" width="45"><b> About me</b>
 ## Hi there 👋
 
 <!--
