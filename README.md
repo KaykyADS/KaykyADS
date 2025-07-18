@@ -7,7 +7,7 @@
   <img src="gifER.gif" alt="Gif Elden Ring" />
 </p>
 
-## <img src="" width="45"><b> About me</b>
+## <img src="https://img.icons8.com/?size=100&id=y1XwYhFXqixu&format=png&color=FFFFFF" width="45"><b> About me</b>
 
 - Brazilian 
 - Analysis and development student at Fatec
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-## ⚒️ Languages and Tools:
+## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="35"><b> Lenguages and Tools </b>
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />](https://www.w3.org/html)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -42,7 +42,7 @@
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />](https://www.docker.com)
 <br /><br />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaykyADS&show_icons=true&theme=dark&hide_border=true&border_radius=15&title_color=79B8FF&text_color=C8E1FF&icon_color=79B8FF&bg_color=0A0F2C" alt="Kayky's GitHub Stats" width="430"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyADS&layout=compact&theme=dark&hide_border=true&border_radius=15&title_color=79B8FF&text_color=C8E1FF&bg_color=0A0F2C" alt="Kayky's Top Languages" width="330"/>
