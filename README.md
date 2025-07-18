@@ -7,17 +7,17 @@
   <img src="gifER.gif" alt="Gif Elden Ring" align="center"/>
 </p>
 
-## <img src="https://img.icons8.com/?size=100&id=y1XwYhFXqixu&format=png&color=FFFFFF" width="45"><b> About me</b>
+## <img src="https://media.tenor.com/yfaFcsYBgqMAAAAi/loading-gif.gif" width="35" align="center"><b> About me</b>
 
 - Brazilian 
 - Analysis and development student at Fatec
 - BackEnd Developer
 - I am looking for new opportunities and challenges in the area, if you want to know more [about me](https://drive.google.com/file/d/1Su7CMiRpcjLv0XlVdZm6Wq-1zlLD018z/view)
 
-## 📞 Connect with me:
+## <img src="https://media.tenor.com/4evdvK5vGrcAAAAi/phone-vibrating.gif" width="35" align="middle"><b> Connect With Me! </b>
 <p align="left">
   <a href="mailto:kayky.souzatl@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://static.wixstatic.com/media/c71004_d74a47a8a72f448fa2f1d07cd6ece8bb~mv2.gif" width="70" height="100" align="middle"/>
+    <img alt="Gmail" src="https://media.tenor.com/cpR9vGVN9p0AAAAi/emjoi.gif" width="50" height="100" align="middle"/>
   </a>
   <a href="https://www.linkedin.com/in/kayky-costa-1367ab1a3/" target="_blank">
     <img alt="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" align="middle"/>
@@ -44,7 +44,7 @@
 [<img align="left" alt=".NET" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" />](https://dotnet.microsoft.com/)
 <br /><br />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" align="middle"><b> Github Stats </b>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaykyADS&show_icons=true&theme=dark&hide_border=true&border_radius=15&title_color=79B8FF&text_color=C8E1FF&icon_color=79B8FF&bg_color=0A0F2C" alt="Kayky's GitHub Stats" width="430"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyADS&layout=compact&theme=dark&hide_border=true&border_radius=15&title_color=79B8FF&text_color=C8E1FF&bg_color=0A0F2C" alt="Kayky's Top Languages" width="330"/>
