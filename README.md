@@ -4,9 +4,39 @@
   </a>
 </p>
 <p align="center">
-  <img src="[gifDs.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTd5MHJ5M3Q0M3Y0NGl0YTJjYnB0b2Z3cGtub2xwMGE0M3EyMHh6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFcAP5S9KAjpbuGrrx/giphy.gif)" alt="Gif Elden Ring" />
+  <img src="gifER.gif" alt="Gif Elden Ring" />
 </p>
 
-## <img src="[https://framerusercontent.com/images/aj0AMGoRdoo8Q6PJOjQAfz6w.gif](https://cdn-icons-gif.flaticon.com/15578/15578616.gif" width="45"><b> About me</b>
+## <img src="" width="45"><b> About me</b>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kaykyADS&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+- Brazilian 
+- Analysis and development student at Fatec
+- BackEnd Developer
+- I am looking for new opportunities and challenges in the area, if you want to know more [about me](https://drive.google.com/file/d/1Su7CMiRpcjLv0XlVdZm6Wq-1zlLD018z/view)
+### Connect with me:
+[<img align="left" alt="developerhumayun | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](kayky.souzatl@gmail.com)
+[<img align="left" alt="devhumayun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kayky-costa-1367ab1a3/)
+<br /><br />
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />](https://www.w3.org/html)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />](https://www.w3.org/Style/CSS/Overview.en.html)
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />](https://getbootstrap.com)
+[<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />](https://www.mysql.com)
+[<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />](https://spring.io/projects/spring-boot)
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />](https://www.java.com)
+[<img align="left" alt="SQL Server" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql-server/sql-server.png" />](https://www.microsoft.com/en-us/sql-server)
+[<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/postman.svg" />](https://www.postman.com)
+<br /><br />
+### Currently Learning:
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://git-scm.com)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com)
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />](https://www.python.org)
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />](https://www.docker.com)
+
+<br /><br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaykyADS&show_icons=true&theme=dark&hide_border=true&border_radius=15&title_color=79B8FF&text_color=C8E1FF&icon_color=79B8FF&bg_color=0A0F2C" alt="Kayky's GitHub Stats" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyADS&layout=compact&theme=dark&hide_border=true&border_radius=15&title_color=79B8FF&text_color=C8E1FF&bg_color=0A0F2C" alt="Kayky's Top Languages" width="330"/>
+</p>
