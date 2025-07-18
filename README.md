@@ -13,11 +13,11 @@
 - Analysis and development student at Fatec
 - BackEnd Developer
 - I am looking for new opportunities and challenges in the area, if you want to know more [about me](https://drive.google.com/file/d/1Su7CMiRpcjLv0XlVdZm6Wq-1zlLD018z/view)
-### Connect with me:
-[<img align="left" alt="developerhumayun | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](kayky.souzatl@gmail.com)
+### 📞 Connect with me:
+[<img align="left" alt="developerhumayun | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:kayky.souzatl@gmail.com)
 [<img align="left" alt="devhumayun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kayky-costa-1367ab1a3/)
 <br /><br />
-### Languages and Tools:
+### ⚒️ Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />](https://www.w3.org/html)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -28,7 +28,7 @@
 [<img align="left" alt="SQL Server" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql-server/sql-server.png" />](https://www.microsoft.com/en-us/sql-server)
 [<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/postman.svg" />](https://www.postman.com)
 <br /><br />
-### Currently Learning:
+### 📚 Currently Learning:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://git-scm.com)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com)
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
