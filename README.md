@@ -49,3 +49,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kaykyADS&show_icons=true&theme=dark&hide_border=true&border_radius=15&title_color=79B8FF&text_color=C8E1FF&icon_color=79B8FF&bg_color=0A0F2C" alt="Kayky's GitHub Stats" width="430"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyADS&layout=compact&theme=dark&hide_border=true&border_radius=15&title_color=79B8FF&text_color=C8E1FF&bg_color=0A0F2C" alt="Kayky's Top Languages" width="330"/>
 </p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="35" height="25" /> <b>Favorite Repositories</b>
+- [Bank-Agency-Project](https://github.com/KaykyADS/Projeto-Agencia-Bancaria)
+- [Project-For-University-Carômetro](https://github.com/KaykyADS/CarometroFatec)
+- [Product-Report-Generator](https://github.com/KaykyADS/Gerador-de-Relatorio-de-Produtos)
