@@ -18,7 +18,7 @@
   <a href="mailto:kayky.souzatl@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-4B688F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/beatriz-camargo-936293324/](https://www.linkedin.com/in/kayky-costa-1367ab1a3/" target="_blank">
+  <a href="https://www.linkedin.com/in/kayky-costa-1367ab1a3/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BACDD9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
