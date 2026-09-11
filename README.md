@@ -12,7 +12,7 @@
 - Brazilian 
 - Analysis and development student at Fatec
 - BackEnd Developer
-- I am looking for new opportunities and challenges in the area, if you want to know more [about me]((https://drive.google.com/file/d/1NAIUqagZDTadXEpuTw3lvd2vG5U1i391/view?usp=sharing))
+- I am looking for new opportunities and challenges in the area, if you want to know more [about me](https://drive.google.com/file/d/1NAIUqagZDTadXEpuTw3lvd2vG5U1i391/view?usp=sharing)
 
 ## <img src="https://media.tenor.com/4evdvK5vGrcAAAAi/phone-vibrating.gif" width="35" align="middle"><b> Connect With Me! </b>
 <p align="left">
